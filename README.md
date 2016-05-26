@@ -4,6 +4,6 @@
 
 本文主要用于日常参考和记录用，不是为了展示单行命令的“长处”（往往单行，也意味着它很长的）。:smile:
 
-It's cool to achieve a goal using one-liner. However, sometimes it's not a simple stuff, and sometimes a bit ugly or a solution of bad readability. Anyhow, it's an ability that we able to write one-liner statement in a shell script or command line task.
+It's cool to achieve a goal using one-liner. However, sometimes it's not a simple task, and sometimes a bit ugly or a solution of bad readability. Anyhow, it's an ability that we able to write one-liner statement in a shell script or command line task.
 
 This article is written for reference and noting, not to represent how long one-liner can be, although it is always seems too long. :smile:
