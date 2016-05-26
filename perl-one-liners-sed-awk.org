@@ -1,0 +1,6 @@
+# -*- mode: org; encoding: utf-8 -*-
+#+TITLE: Perl One-Liners, sed and awk
+#+AUTHOR: WisdomFusion <WisdomFusion[at]gmail[dot]com>
+#+DATE: 2016-05-26
+
+
